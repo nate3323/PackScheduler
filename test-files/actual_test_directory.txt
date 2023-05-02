@@ -1,0 +1,3 @@
+Graham,Swain,gnswain,gnswain@ncsu.edu,password,18
+Fetty,Wap,fwap,1738@squaw.com,trapqueen,18
+Cam,Newton,cnewton,loser@superbowl.com,vonmiller,18
